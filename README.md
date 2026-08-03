@@ -2,7 +2,7 @@
 
 ###
 
-<!-- ОСНОВНЫЕ ИКОНКИ (ТОЛЬКО ТВОИ) -->
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
